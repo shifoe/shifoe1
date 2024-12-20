@@ -1,6 +1,4 @@
 
-
-<!DOCTYPE html>
 <html lang="ar" dir="rtl">
 
 <head>
